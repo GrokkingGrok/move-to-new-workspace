@@ -1,0 +1,9 @@
+{
+  "uuid": "move-to-new-workspace@skander2905.github.io",
+  "name": "Move to New Workspace",
+  "description": "Adds a + button on every window in the Activities overview. Click it to move that window to a brand-new workspace, placed right after the window's current one.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/skander2905/move-to-new-workspace",
+  "version": 1,
+  "version-name": "1.0"
+}

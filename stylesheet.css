@@ -1,0 +1,17 @@
+.mtnw-button {
+  background-color: rgba(30, 30, 30, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  padding: 7px;
+}
+
+.mtnw-button:hover,
+.mtnw-button:focus {
+  background-color: #e95420; /* Ubuntu orange */
+  border-color: #e95420;
+}
+
+.mtnw-icon {
+  icon-size: 16px;
+  color: #ffffff;
+}
